@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abhaypratapsinghkanpur
+- 👀 I’m interested in web & software development
+- 🌱 I’m currently learning many different types of programming language
+- 📫 How to reach me - abhaypratapsinghkanpur@yandex.com
